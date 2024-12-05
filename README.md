@@ -7,9 +7,8 @@ You can view the user list, all their posts and the complete details of each pos
 <br/>
 
 **Deploy:**
-<br/>
 
-<br/>
+https://frontend-prueba-rho.vercel.app/
 
 **Needed credentials:**
 
